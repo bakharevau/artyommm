@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Artyom
+<h1 align="center">добро пожаловать (welcome) в мой гит ХАБ
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+from+Russia" alt="codewars_badge"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Кампуктер+скаенс+и+информатикс+student" alt="css"></h1>
 
 <h3> Worked with it: </h3>
 
